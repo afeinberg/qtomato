@@ -2,7 +2,7 @@
 
 ## About
 
-Needed a [Pomodoro http://pomodorotechnique.com/] timer for Linux. Since I couldn't easily find one and wanted to learn QT, I built one with a UI similar to [TomatoTimer http://tomato-timer.com/]. 
+Needed a [Pomodoro](http://pomodorotechnique.com/) timer for Linux. Since I couldn't easily find one and wanted to learn QT, I built one with a UI similar to [TomatoTimer](http://tomato-timer.com/). 
 
 ## Building
 
