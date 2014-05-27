@@ -10,5 +10,6 @@ Re-generate Makefile by running qmake -o Makefile qtomato.pro
 
 ## TODO
 
+* Consider using QT timers instead of a separate thread.
 * D-bus and/or sound-based notifications
 * Persistent state: being able to add, remove, and work through a list of tasks.
